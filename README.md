@@ -1,8 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theturkishangorashiro-art/theturkishangorashiro-art/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theturkishangorashiro-art/theturkishangorashiro-art/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/theturkishangorashiro-art/theturkishangorashiro-art/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/theturkishangorashiro-art/theturkishangorashiro-art/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
 
 ## नमस्ते, I'm Shubham Sunil Kumar! 👋
 
