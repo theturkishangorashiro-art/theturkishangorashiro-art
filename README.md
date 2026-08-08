@@ -43,6 +43,18 @@
 
 ---
 
+## 🧊 3D Contribution Landscape
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="Shubham's 3D Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sunil-kumar-333547133/)
