@@ -2,9 +2,11 @@
   <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/theturkishangorashiro-art/theturkishangorashiro-art/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
-## नमस्ते, I'm Shubham Sunil Kumar! 👋
+## Hola! I'm Shubham! 👋
 
-- 🔭 **Busy In:** Improving myself, building scalable full-stack web applications, AI automation tools, and open-source software.
+> *"Turning coffee and AI prompts into working apps before my context window runs out."* ☕✨  
+> *Building full-stack web apps, solving real-world challenges.*
+
 - 🌱 **Learning & Exploring:** GenAI, LLM Orchestration, System Architecture, Rust, TypeScript & React.
 - 🥇 **Proficient In:** JS/TS, Python, Rust, React, Node.js, and related frameworks.
 - 💡 **Passion:** Solving real-world challenges with clean code and intuitive UX.
